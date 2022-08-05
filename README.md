@@ -1,6 +1,3 @@
-
-Authors: Jinfeng Chen (c.jinfeng@wustl.edu), Daniel Ryu (r.seunghyeondaniel@wustl.edu), Matthew Kim (mkim25@wustl.edu)
-
 CSE 332S  Lab 4
 
 This program supports two games, Tic-Tac-Toe and Gomoku. 
@@ -26,28 +23,6 @@ Return Codes:
 	4 - Game is draw
 	5 - Incorrect usage (incorrect command line input)
 	6 - Bad allocation exception from dynamic memory allocation
-
-
-Work Assignment
-
-	6. Daniel R.
-	7. Daniel R.
-	8. Jinfeng C. 
-	9. Matthew K.
-	10.-12. Jinfeng C.
-	13.-15. Daniel R.
-	16. Jinfeng C.
-	17. Daniel R.
-	18. Daniel R. Jinfeng C.
-	20.-23. Daniel R.
-	24. Matthew K. Daniel R.
-	25. Matthew k. 
-	26. Jinfeng C. Daniel R.
-	27. Daniel R.
-	-----
-	34. Daniel R.
-	35. JinFeng C. Daniel R.
-	36-38. Daniel R.
 	
 
 Errors/Warnings:
